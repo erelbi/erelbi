@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/WmdWuAxoFRSjTfOycZ/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const erelbi = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python"],
     askMeAbout: ["Linux", "Maritime", "Blog", "Photography"],
