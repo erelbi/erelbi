@@ -1,4 +1,4 @@
-<h2>Maritime Transport Operations Engineer & Linux System Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+<h2>Maritime Transport Operations Engineer & Linux System Administrator</h2>
 <img align='right' src="https://media.giphy.com/media/YQNE1tXKAhghAFVfdZ/source.gif" width="240">
 </em></p>
 
