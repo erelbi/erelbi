@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/7SIdExk63rTPXhbbbt/source.gif" width="230">
 </em></p>
 
-![Linkedin: erelbil](https://img.shields.io/badge/-erelbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erelbi/)
+[![Linkedin: erelbi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erelbi/)](https://www.linkedin.com/in/erelbi/)
 
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://erelbi.github.io/)](https://erelbi.github.io)
 
