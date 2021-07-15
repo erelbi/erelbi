@@ -1,5 +1,5 @@
 <h2>Maritime Transport Operations Engineer & Linux System Administrator <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
-<img align='right' src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/giphy.gif" width="100">
+<img align='right' src="https://media.giphy.com/media/MCRQ0Nkn4KfeQDdM7N/source.gif" width="100">
 </em></p>
 
 [![Linkedin: erelbi](https://img.shields.io/badge/-erelbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erelbi/)](https://www.linkedin.com/in/erelbi/)
