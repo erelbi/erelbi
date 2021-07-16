@@ -21,7 +21,7 @@ const erelbi = {
         },
         devOps: ["Docker🐳", "LXC"],
         databases: ["mongo", "MySql", "PostgreSql"],
-        os: ["Debian"]
+        os: ["Debian","Fedora"]
     },
     currentFocus: "Linux System Admin",
     funFact: "I'm not a programmer. I like spaghetti code"
