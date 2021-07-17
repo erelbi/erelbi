@@ -18,14 +18,18 @@ const erelbi = {
         backEnd: {
             js: ["Express"],
             python: ["Django","Flask"]
-        },
-        staticWebsites: ["Hugo","Gitbook"],
+            },
+         frontEnd: {
+            js: ["Ajax"]
+            },
+        scripting: ["Bash"],
         devOps: ["Docker🐳", "LXC"],
         databases: ["mongoDB","Redis","MySql", "PostgreSql"],
         os: ["Debian","Fedora"],
         virtualization: ["KVM"],
         virtualizationManagementPlatform: ["Proxmox"],
         automation: ["Vagrant","Ansible"],
+        staticWebsites: ["Hugo","Gitbook"],
         videoEdit: ["DaVinci Resolve"]
     },
     currentFocus: "Linux System Admin",
