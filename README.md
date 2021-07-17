@@ -7,7 +7,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/WmdWuAxoFRSjTfOycZ/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/WmdWuAxoFRSjTfOycZ/giphy.gif" width="30"> A little more about me...  
 
 ```javascript
 const erelbi = {
