@@ -20,8 +20,11 @@ const erelbi = {
             python: ["Django","Flask"]
         },
         devOps: ["Docker🐳", "LXC"],
-        databases: ["mongo", "MySql", "PostgreSql"],
-        os: ["Debian","Fedora"]
+        databases: ["mongoDB","Redis","MySql", "PostgreSql"],
+        os: ["Debian","Fedora"],
+        virtualization: ["KVM"],
+        virtualization-management-platform:["Proxmox"],
+        automation: ["Vagrant","Ansible"]  
     },
     currentFocus: "Linux System Admin",
     funFact: "I'm not a programmer. I like spaghetti code"
