@@ -19,12 +19,14 @@ const erelbi = {
             js: ["Express"],
             python: ["Django","Flask"]
         },
+        staticWebsites: ["Hugo","Gitbook"],
         devOps: ["Docker🐳", "LXC"],
         databases: ["mongoDB","Redis","MySql", "PostgreSql"],
         os: ["Debian","Fedora"],
         virtualization: ["KVM"],
-        virtualization-management-platform:["Proxmox"],
-        automation: ["Vagrant","Ansible"]  
+        virtualizationManagementPlatform:["Proxmox"],
+        automation: ["Vagrant","Ansible"],
+        videoEdit: ["DaVinci Resolve"]
     },
     currentFocus: "Linux System Admin",
     funFact: "I'm not a programmer. I like spaghetti code"
