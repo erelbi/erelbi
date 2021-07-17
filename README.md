@@ -24,7 +24,7 @@ const erelbi = {
         databases: ["mongoDB","Redis","MySql", "PostgreSql"],
         os: ["Debian","Fedora"],
         virtualization: ["KVM"],
-        virtualizationManagementPlatform:["Proxmox"],
+        virtualizationManagementPlatform: ["Proxmox"],
         automation: ["Vagrant","Ansible"],
         videoEdit: ["DaVinci Resolve"]
     },
